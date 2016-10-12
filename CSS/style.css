@@ -1,0 +1,187 @@
+h1{
+	color: #889C58;
+	font-size: 44px;
+	width: 270px;
+	height: 43px;
+	margin: 0px;
+	float: left;
+}
+
+body{
+	background-color: #EDF2C5;
+}
+
+header{
+	width: 940px;
+	height: 43px;
+	margin-top: 50px;
+	margin-bottom: 10px;
+}
+
+nav ul{
+	background-color: #889C5B;
+	width: 909px;
+	height: 16px;
+	border-radius: 3px;
+	margin-bottom: 20px;
+	padding: 16px 0px 16px 31px;
+}
+
+nav li{
+	color: #EDF2C5;
+	list-style: none;
+	font-size: 16px;
+	margin-right: 60px;
+	float: left;
+}
+
+footer{
+	color: #EDF2C5;
+	font-family: Arial;
+	font-size: 12px;
+	background-color: #889C5B;
+	min-width: 1260px;
+	width: 100%;
+	height: 60px;
+	text-align: center;
+}
+
+footer p{
+	padding-top: 24px;
+	padding-bottom: 24px;
+}
+
+.container{
+	font-family: Arial Black;
+	max-width: 940px;
+	padding-left: 160px;
+	padding-right: 160px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.clear{
+	clear: both;
+}
+
+.icon{
+	width: 70px;
+	height: 25px;
+	float: right;
+	margin-top: 11px;
+	margin-bottom: 7px;
+}
+
+.btn{
+	width: 128px;
+	height: 20px;
+	margin-top: 16px;
+	margin-bottom: 7px;
+	float: right;
+}
+
+.title_bg{
+	background-color: #889C5B;
+	width: 413px;
+	height: 16px;
+	border-radius: 3px;
+	margin-bottom: 17px;
+	padding: 16px 0px 16px 31px;
+}
+
+.title_font{
+	color: #EDF2C5;
+	list-style: none;
+	font-size: 16px;
+	margin: 0px;
+}
+
+.article{
+	width: 940px;
+	height: 201px;
+	margin-bottom: 34px;
+}
+
+.vegetables{
+	float: left;
+}
+
+.vegetables img{
+	margin-right: 12px;
+	float: left;
+}
+
+.contact{
+	float: right;
+}
+
+.contact-p{
+	font-family: Arial;
+	font-size: 12px;
+	color: #898989;
+	background-color: #F5F8B9;
+	width: 444px;
+	height: 140px;
+	padding: 15px 15px 15px 15px;
+	margin-top: 17px;
+	margin-bottom: 34px;
+	box-sizing: border-box;
+}
+
+#btn-join{
+	color: #778A50;
+	width: 32px;
+	height: 10px;
+	border: 1px solid #889C5B;
+	border-radius: 3px;
+	font-size: 12px;
+	margin: 0px 0px 0px 8px;
+	padding: 5px 9px 5px 9px;
+	text-align: center;
+	float: right;
+}
+
+#btn-login{
+	color: #778A50;
+	width: 32px;
+	height: 10px;
+	border: 1px solid #889C5B;
+	border-radius: 3px;
+	font-size: 12px;
+	margin: 0px 0px 0px 10px;
+	padding: 5px 9px 5px 9px;
+	text-align: center;
+	float: right;
+}
+
+#icon-ins{
+	width: 25px;
+	height: 25px;
+	margin-left: 8px;
+	float: right;
+}
+
+#icon-fb{
+	width: 25px;
+	height: 25px;
+	float: right;
+}
+
+#line{
+    width: 1px;
+    height: 20px;
+    background-color: #778A50;
+    margin: 0px 0px 0px 10px;
+    float: right;
+}
+
+#pumpkin{
+	margin-bottom: 32px;
+}
+
+#contact-p1{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-bottom: 14px;
+	border-bottom: 1px solid #898989;
+}
